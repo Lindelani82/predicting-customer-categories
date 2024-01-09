@@ -1,6 +1,6 @@
 # predicting-customer-categories
 
-For this project we will using customer dataset related to a telecommunication company, we will be using classification algorthms such as KNN(K Nearest Neighbor) to predict the category of customers, and evaluate the accuracy of our model.
+For this project we will be using customer dataset related to a telecommunication company, we will be using classification algorthms such as KNN(K Nearest Neighbor) to predict the category of customers, and evaluate the accuracy of our model.
 
 # Project goals
 Develop code for cleaning and prepare data for analysis
